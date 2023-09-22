@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Ubuntu18-VM-Pool
+pool: sample
   
 steps:
 - task: Maven@3
